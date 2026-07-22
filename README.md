@@ -1,6 +1,6 @@
 # Ushasree Jakilinki — Applied AI Portfolio
 
-Principal Technical Program Manager (25+ years) moving into **Applied AI product management**. I take real problems, decide whether AI is genuinely the right tool, define the MVP and the data it needs, and design the evaluation that proves it works — before writing a line of code. Currently pursuing an M.S. in Applied Data Science (AI concentration) at the University of Michigan.
+Principal Technical Program Manager (25+ years) transitioning into Applied AI Product Management. I start with real problems, determine whether AI is the right solution, define the MVP, identify the data required, and design an evaluation strategy before building the prototype. Currently pursuing an M.S. in Applied Data Science (AI concentration) at the University of Michigan.
 
 This repository is my portfolio index. Everything I'm building in the open is linked below.
 
